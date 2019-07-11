@@ -6,9 +6,11 @@ It provides capabilities for  basic pipeline of analysis (e.g. exploration, visu
 *JAM.jl* enables one to play with a band of models.  
 
 ---  
+
 Version  : 0.0.2
 Date     : 11 Jul 2019  
 Maintainer: Felipe C. Argolo [@argolof](https://github.com/fargolo)  
+
 ---  
 
 **JAM.jl** exposes functions through RESTful API and widgets for interactive management and visualization of objects. Once a functionality is loaded, it can be activated with **POST** requests `http://jam-url.com/run/my-linear-model/` containing adequate arguments.  

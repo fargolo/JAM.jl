@@ -28,6 +28,7 @@ HTTP.Messages.Response:
 HTTP/1.1 200 OK
 (...){"error": false, "result": "Outputs saved to lm-2019-07-11T16:06:07.821"}"""
 ```  
+File lm-2019-07-11T16:06:07.417.csv contains outputs. 
 
 Data and relevant outputs are stored and can be retrieved later for data visualization, exploration and diagnostics in `http://jam-url.com/display/`.
 

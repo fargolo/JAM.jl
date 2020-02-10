@@ -1,3 +1,5 @@
+This project is no longer mantained, since most features intendend are offered by [JuliaBox](https://juliabox.com/)
+
 # JAM.jl  
 
 *I think it's time we blow this scene. Get everybody and the stuff together. Ok? 3, 2, 1: Let's jam.* Tank, Yoko Kanno (Cowboy Bebop opening theme)   
